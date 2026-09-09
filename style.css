@@ -1,0 +1,56 @@
+ .body {
+            background-color: #2780e6;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        div {
+            text-align: center;
+            margin: 100px 60px;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #f8fafa;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        form {
+            margin: 70px 40px;
+            background-color: #f7dc48;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2.5em;
+            color: #070707;
+        }
+
+        #cityInput {
+            display: block;
+            margin: 0 auto 15px;
+            padding: 10px;
+            width: min(300px, 90%);
+            border: 1px solid #070707;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        .getWeatherBtn {
+            display: block;
+            margin: 0 auto;
+            background-color: #070707;
+            color: rgb(252, 252, 252);
+            padding: 10px 20px;
+            border: 1px solid #fffefe;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .body p {
+            margin-bottom: 20px;
+            font-size: 1.2em;
+            color: #070707;
+        }
